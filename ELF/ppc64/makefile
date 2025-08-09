@@ -9,8 +9,8 @@ DB2HTML=docbook2html -o spec -p '/usr/bin/jade '
 #DB2RTF=sgmltools -b rtf
 DB2RTF=docbook2rtf
 
-DB2PS=sgmltools -b ps
-#DB2PS=docbook2ps
+#DB2PS=sgmltools -b ps
+DB2PS=docbook2ps
 
 #DB2PDF=sgmltools -b pdf
 DB2PDF=docbook2pdf
